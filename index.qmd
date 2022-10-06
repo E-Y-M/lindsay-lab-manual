@@ -36,17 +36,17 @@ the aim of creating an accessible, version-controlled manual that can be
 updated by subsequent generations or adapted by other labs. Indeed, this
 online version itself uses the Quarto template provided by [The Fay
 Lab](https://thefaylab.github.io/lab-manual/), who provide a handy
-tutorial for adapting the template for other lab manuals. <br> We have
-consulted and been inspired by so many formal and informal sources in
+tutorial for adapting the template for other lab manuals. 
+
+We have consulted and been inspired by so many formal and informal sources in
 the course of developing this document that I am sure to miss crediting
 some who deserve credit, but would be remiss not to note lab manuals
 created by [Maryam Ali](https://github.com/alylab/labmanual), [John Paul
-Minda](https://osf.io/8b6kj/), and [Maureen
-Ritchey](https://github.com/memobc/memolab-manual), from which we gained
+Minda](https://osf.io/8b6kj/), and [Maureen Ritchey](https://github.com/memobc/memolab-manual), from which we gained
 specific inspiration.
 
 [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left"
-width="35px"}](https://github.com/thefaylab/lab-manual) \< link to this
+width="35px"}]https://github.com/E-Y-M/lindsay-lab-manual) \< link to this
 book's GitHub repository.
 
 <!-- ![](img/openscapes_hex_badge.png){width="25%"} -->
