@@ -17,11 +17,82 @@ book:
   repo-url: https://github.com/E-Y-M/lindsay-lab-manual
   repo-actions: [edit,issue]
 
+# Proposed chapter layout
+# 1 - Intro
+# 2 - Lab Philosophy and General Code of Conduct
+# 3 - Lab Spaces and Resources
+## 3.1 - Rooms
+## 3.2 - Software
+# 4 - Roles and Expectations
+## 4.1 - Research Assistants
+### 4.1.1 - Hours and scheduling
+### 4.1.2 - Research and Scientific Ethics
+#### 4.1.2.1 - Research participants
+#### 4.1.2.2 - Confidentiality and data ethics
+## 4.2 - Honours Students
+## 4.3 - Graduate Students
+# 5 - Communication
+# 6 - Authorship
+# 7 - Funding
+## 7.1 - Conferences and workshops
+# 8 - Lab Practices
+## 8.1 - Summary of Expectations
+## 8.2 - Open Science in Brief
+## 8.3 - Hypothesis and Experiment Planning
+### 8.3.1 - Pre-registration
+#### 8.3.1.1 - What is pre-registration?
+#### 8.3.1.2 - Why should I pre-register?
+#### 8.3.1.3 - What should I pre-register?
+#### 8.3.1.4 - How do I create a pre-registration?
+#### 8.3.1.5 - What if I change my mind about something I've already pre-registered?
+## 8.4 - Human Research Ethics
+### 8.4.1 - Potential harms, benefits, and the importance of "taking the perspective of the participant"
+## 8.5 Participants
+### 8.5.1 - Who will they be?
+#### 8.5.1.1 - UVic Undergraduates
+#### 8.5.1.2 - Online samples
+##### 8.5.1.2.1 - Crowdsourcing platforms
+###### 8.5.1.2.1.1 - mTurk
+###### 8.5.1.2.1.2 - Prolific
+### 8.5.2 - Sample size planning
+## 8.6 - Experiment Design
+### 8.6.1 - Stimulus Selection
+## 8.7 - Experiment
+### 8.7.1 - Ethical treatment of participants
+#### 8.7.1.1 - Free, ongoing, and informed consent
+#### 8.7.1.2 - Minimizing unnecessary risks and potential harms
+#### 8.7.1.3 - Debriefing
+## 8.8 - Maintaining and storing records
+## 8.9 - Data Analysis
+### 8.9.1 - Reproducibility
+### 8.9.2 - Version Control
+### 8.9.3 - Statistical Considerations
+#### 8.9.3.1 - Common NHST pitfalls
+#### 8.9.3.2 - Null effects
+##### 8.9.3.2.1 - Equivalence testing
+##### 8.9.3.2.2 - Bayes factors
+## 8.10 - Disseminating and Communicating Results
+### 8.10.1 - Reproducible Documents
+### 8.10.2 - Data Sharing
+#### 8.10.2.1 - Privacy and confidentiality concerns
+## 8.11 - Data Management: Short and Long Term
+### 8.11.1 - Data Management Plans (DMPs)
+### 8.11.2 - File Management and Storage
+#### 8.11.2.1 - Backups
+#### 8.11.2.2 - Lab hard drive
+#### 8.11.2.3 - Guidelines for naming & organizing files
+##### 8.11.2.3.1 - General advice
+#### 8.11.2.4 - Lab hard drive format
+## 8.12 - Reference Management
+# 9 - Updating this document
+# 10 - References
+
+
   chapters: 
     - index.qmd
-    - 01-intro-how-we-work.qmd
-    - 02-lab-culture-philosophy.qmd
-    - 03-code-of-conduct.qmd
+    - 01-intro.qmd
+    - 02-lab-philosophy.qmd
+    - 03-lab-resources.qmd
     - 04-onboarding.qmd
     - 05-expectations.qmd
     - 06-offboarding.qmd

@@ -1,0 +1,5 @@
+---
+# bibliography: references.bib
+---
+
+# Lab Philosophy and General Code of Conduct

@@ -1,25 +1,56 @@
-# Welcome!
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
 
-Welcome to our book of magical secrets.
+# Introduction
 
-<br> This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology.\
-The focus of our work centers around developing interdisciplinary modeling approaches to extend the scope of applications for fisheries and ecosystem-based management. More about our group's research activity can be found on our [website](https://thefaylab.com).
+This document is intended as both a general-purpose lab manual and a
+more detailed set of guidelines and suggestions related to open science
+principles, ethical research practices, and conscientious data
+management in the context of the kinds of research and data we most
+often deal with in this lab. <br> The lab manual component lays out
+general information about the lab, our standard practices and
+guidelines, and what is expected of lab members in various roles. The
+latter part (from Lab Practices onward) goes into more detail and takes
+steps toward establishing formal lab policy around methodological
+transparency and data storage, preservation, and sharing, as well as
+some less prescriptive suggestions and points regarding issues I would
+encourage students to think critically about in their own work. This
+latter component is more so aimed at, and intended to be accessible to,
+early graduate students, but some parts may also be useful to honours
+students and other undergraduates curious about or considering pursuing
+research. <br> Most of this document was written and compiled by former
+lab graduate student [Dr. Kaitlyn
+Fallow](https://www.uvic.ca/socialsciences/psychology/people/graduate/recent-graduates/fallowkaitlyn.php)
+and [Dr. D. Stephen
+Lindsay](https://www.uvic.ca/socialsciences/psychology/people/faculty-directory/lindsaysteve.php),
+the lab PI. This current "live" manual was adapted and revised by
+current graduate student [Eric Mah](https://ericymah.netlify.app/), with
+the aim of creating an accessible, version-controlled manual that can be
+updated by subsequent generations or adapted by other labs. Indeed, this
+online version itself uses the Quarto template provided by [The Fay
+Lab](https://thefaylab.github.io/lab-manual/), who provide a handy
+tutorial for adapting the template for other lab manuals. <br> We have
+consulted and been inspired by so many formal and informal sources in
+the course of developing this document that I am sure to miss crediting
+some who deserve credit, but would be remiss not to note lab manuals
+created by [Maryam Ali](https://github.com/alylab/labmanual), [John Paul
+Minda](https://osf.io/8b6kj/), and [Maureen
+Ritchey](https://github.com/memobc/memolab-manual), from which we gained
+specific inspiration.
 
-This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Gavin (gfay\@umassd.edu) or make a pull request.
+[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left"
+width="35px"}](https://github.com/thefaylab/lab-manual) \< link to this
+book's GitHub repository.
 
-<br>
+<!-- ![](img/openscapes_hex_badge.png){width="25%"} -->
 
-The content for this book was developed as part of our group's participation in the [Openscapes Champions program](https://openscapes.org).\
-We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://twitter.com/juliesquid)' role in helping shape how our lab both works and how we articulate our identity. 🙏\
-Thanks also to [Ileana Fenwick](https://twitter.com/_ileanaf) and [Stefanie Butland](https://twitter.com/StefanieButland) for their work moving the lab-manual from bookdown to Quarto. 🙌\
+<!-- [*We're proud Openscapes Champions!*](https://openscapes.org) -->
 
+<!-- ------------------------------------------------------------------------ -->
 
-[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual) \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it)!
-
-![](img/openscapes_hex_badge.png){width="25%"}
-
-[*We're proud Openscapes Champions!*](https://openscapes.org)
-
-------------------------------------------------------------------------
-
-[![](img/creative_commons.png)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This lab is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
+[![](img/creative_commons.png)](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"}This
+lab manual is licensed under a [Creative Commons Attribution 4.0 International
+License.](http://creativecommons.org/licenses/by/4.0/)
