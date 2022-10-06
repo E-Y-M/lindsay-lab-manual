@@ -90,7 +90,7 @@ book:
 
   chapters: 
     - index.qmd
-    - 01-intro.qmd
+    - 01-introduction.qmd
     - 02-lab-philosophy.qmd
     - 03-lab-resources.qmd
     - 04-onboarding.qmd
