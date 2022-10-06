@@ -95,7 +95,7 @@
     "href": "08-lab-practices.html#data-analysis",
     "title": "8  Lab Practices",
     "section": "8.9 Data Analysis",
-    "text": "8.9 Data Analysis\n\n8.9.1 Reproducibility\n\n\n8.9.2 Version Control\n\n\n8.9.3 Statistical Considerations\n\n8.9.3.1 Common NHST pitfalls\n\n\n8.9.3.2 Null effects\n\n8.9.3.2.1 Equivalence testing\n\n\n8.9.3.2.2 Bayes factors"
+    "text": "8.9 Data Analysis\n\n8.9.1 Reproducibility\n\n\n8.9.2 Version Control\n\n8.9.2.1 Basic GitHub with R*\n\n\n\n8.9.3 Statistical Considerations\n\n8.9.3.1 Common NHST pitfalls\n\n\n8.9.3.2 Null effects\n\n8.9.3.2.1 Equivalence testing\n\n\n8.9.3.2.2 Bayes factors"
   },
   {
     "objectID": "08-lab-practices.html#disseminating-and-communicating-results",
@@ -117,6 +117,13 @@
     "title": "8  Lab Practices",
     "section": "8.12 Reference management",
     "text": "8.12 Reference management"
+  },
+  {
+    "objectID": "08-lab-practices.html#avoiding-research-errors",
+    "href": "08-lab-practices.html#avoiding-research-errors",
+    "title": "8  Lab Practices",
+    "section": "8.13 Avoiding research errors",
+    "text": "8.13 Avoiding research errors"
   },
   {
     "objectID": "09-updating.html#quarto",
