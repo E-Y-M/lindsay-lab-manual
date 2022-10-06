@@ -1,1 +1,1 @@
-Sitemap: https://thefaylab.github.io/lab-manual/sitemap.xml
+Sitemap: https://e-y-m.github.io/lindsay-lab-manual/sitemap.xml
