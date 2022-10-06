@@ -32,6 +32,9 @@ book:
 ## 4.2 - Honours Students
 ## 4.3 - Graduate Students
 # 5 - Communication
+## 5.1 - Email
+## 5.2 - Discord
+## 5.3 - Zoom
 # 6 - Authorship
 # 7 - Funding
 ## 7.1 - Conferences and workshops
@@ -90,21 +93,16 @@ book:
 
   chapters: 
     - index.qmd
-    - 01-introduction.qmd
+#    - 01-introduction.qmd
     - 02-lab-philosophy.qmd
     - 03-lab-resources.qmd
-    - 04-onboarding.qmd
-    - 05-expectations.qmd
-    - 06-offboarding.qmd
+    - 04-roles.qmd
+    - 05-communication.qmd
+    - 06-authorship.qmd
     - 07-funding.qmd
-    - 08-communication.qmd
-    - 09-academics.qmd
-    - 10-courses.qmd
-    - 11-computing.qmd
-    - 12-umassd-resources.qmd
-#    - 13-smast-resources.qmd
-#    - 14-other-faylab-resources.qmd  
-
+    - 08-lab-practices.qmd
+    - 09-updating.qmd
+    - 10-references.qmd
 
 # not sure what the following line does; those files are present
 bibliography: [references.bib, book.bib]

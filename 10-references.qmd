@@ -2,6 +2,5 @@
 # bibliography: references.bib
 ---
 
-# Funding
+# References
 
-## Conferences and workshops

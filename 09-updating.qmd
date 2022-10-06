@@ -1,0 +1,10 @@
+---
+# bibliography: references.bib
+---
+
+# Updating this document
+
+## GitHub
+
+## Quarto
+

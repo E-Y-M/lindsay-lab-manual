@@ -1,0 +1,100 @@
+---
+# bibliography: references.bib
+---
+
+# Lab Practices
+
+## Summary of Expectations
+
+## Open Science in Brief
+
+## Hypothesis and Experiment Planning
+
+### Pre-registration
+
+#### What is pre-registration?
+
+#### Why should I pre-register?
+
+#### What should I pre-register?
+
+#### How do I create a pre-registration?
+
+#### What if I change my mind about something I've already pre-registered?
+
+## Human Research Ethics
+
+### Potential harms, benefits, and the importance of "taking the perspective of the participant"
+
+## Participants
+
+### Who will they be?
+
+#### UVic Undergraduates
+
+#### Online samples
+
+##### mTurk
+
+##### Prolific
+
+### Sample size planning
+
+## Experiment Design
+
+### Stimulus Selection
+
+## Experiment
+
+### Ethical treatment of participants
+
+#### Free, ongoing, and informed consent
+
+#### Minimizing unnecessary risks and potential harms
+
+#### Debriefing
+
+## Maintaining and storing records
+
+## Data Analysis
+
+### Reproducibility
+
+### Version Control
+
+### Statistical Considerations
+
+#### Common NHST pitfalls
+
+#### Null effects
+
+##### Equivalence testing
+
+##### Bayes factors
+
+## Disseminating and Communicating Results
+
+### Reproducible Documents
+
+### Data Sharing
+
+#### Privacy and confidentiality concerns
+
+## Data Management: Short and Long Term
+
+### Data Management Plans (DMPs)
+
+### File Management and Storage
+
+#### Backups
+
+#### Lab hard drive
+
+#### Guidelines for naming and organizing files
+
+##### General advice
+
+#### Lab hard drive format
+
+## Reference management
+

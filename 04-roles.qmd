@@ -1,0 +1,21 @@
+---
+# bibliography: references.bib
+---
+
+# Roles and Expectations
+
+## Research Assistants
+
+### Hours and scheduling
+
+### Research and Scientific Ethics
+
+#### Research Participants
+
+#### Confidentiality and data ethics
+
+## Honours Students
+
+## Graduate Students
+
+## Lab Software
