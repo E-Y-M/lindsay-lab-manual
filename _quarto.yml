@@ -87,6 +87,7 @@ book:
 ##### 8.11.2.3.1 - General advice
 #### 8.11.2.4 - Lab hard drive format
 ## 8.12 - Reference Management
+## 8.13 - Avoiding research errors
 # 9 - Updating this document
 # 10 - References
 
@@ -102,7 +103,8 @@ book:
     - 07-funding.qmd
     - 08-lab-practices.qmd
     - 09-updating.qmd
-    - 10-references.qmd
+    - 10-other-resources.qmd
+    - 11-references.qmd
 
 # not sure what the following line does; those files are present
 bibliography: [references.bib, book.bib]

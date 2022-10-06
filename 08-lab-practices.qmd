@@ -62,6 +62,8 @@
 
 ### Version Control
 
+#### Basic GitHub with R*
+
 ### Statistical Considerations
 
 #### Common NHST pitfalls
@@ -97,4 +99,6 @@
 #### Lab hard drive format
 
 ## Reference management
+
+## Avoiding research errors
 
