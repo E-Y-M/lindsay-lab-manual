@@ -46,7 +46,7 @@ Minda](https://osf.io/8b6kj/), and [Maureen Ritchey](https://github.com/memobc/m
 specific inspiration.
 
 [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left"
-width="35px"}]https://github.com/E-Y-M/lindsay-lab-manual) \< link to this
+width="35px"}](https://github.com/E-Y-M/lindsay-lab-manual) \< link to this
 book's GitHub repository.
 
 <!-- ![](img/openscapes_hex_badge.png){width="25%"} -->
