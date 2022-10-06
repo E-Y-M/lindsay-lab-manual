@@ -3,18 +3,18 @@ project:
   output-dir: _book
   
 book:
-  title: "Faylab Lab Manual"
-  author: "Gavin Fay & Ashleigh Novak"
+  title: "Lindsay Lab Manual"
+  author: "Kaitlyn M. Fallow, Eric Y. Mah, & D. Stephen Lindsay"
   date: last-modified 
-  description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" 
+  description: "This is the lab manual for the Lindsay Lab at the University of Victoria" 
   
   page-footer:
     left: |
-      <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
+      <a href="https://onlineacademiccommunity.uvic.ca/lindsaylab/">the Lindsay Lab</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://thefaylab.github.io/lab-manual/
-  repo-url: https://github.com/thefaylab/lab-manual
+  site-url: https://e-y-m.github.io/lindsay-lab-manual/
+  repo-url: https://github.com/E-Y-M/lindsay-lab-manual
   repo-actions: [edit,issue]
 
   chapters: 
