@@ -6,6 +6,16 @@
 
 ## Email
 
-## Discord
+Most lab-related communication will occur by email, so please make sure the email address you have on file with me/other lab members is current and an account you check regularly. You should check this account daily on weekdays while you are actively involved in data collection in case of any time-sensitive issues (e.g., room booking conflicts that might require cancellation or room changes), unless you have arranged for another mode of contact with your student supervisor/colleagues on the same project. This is also where we will contact you about lab meeting scheduling and cancellations, which, although we try to avoid it, sometimes occur fairly last minute.
 
-## Zoom
+For messages requiring a response or informing you personally of something important (e.g., a change to your usual testing room), please try to respond or acknowledge by the next business day. In the latter case a quick “got it” is sufficient; it’s just helpful to know the message wasn’t lost in the ether. You are not expected to check or reply to lab email on weekends, holidays, or anytime you have arranged for time away from data collection.
+
+### Lab email ([lindlab@uvic.ca](lindlab@uvic.ca))
+
+If you are involved in data collection you will be given access to the lab email account, which is generally where research participants will contact us with questions, problems, or to let us know why they were or will be unable to make it to their scheduled session. You should check this account before and after your scheduled sessions in case there are messages relevant to you. Often this will not be clear from the subject line, so if you open a message and discover it’s not relevant to you, please make sure to mark it as unread.
+
+When communicating with participants through this account (or via SONA), keep in mind you are representing the lab; there is no need to be overly formal, but please follow basic email etiquette and include an informative subject line, a greeting, and signature. It’s preferable to sign these messages with your own name rather than just Lindsay Lab so others using the account can keep track of who’s dealing with a particular issue.
+
+## Discord*
+
+## Zoom*
