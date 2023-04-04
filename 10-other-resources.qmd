@@ -1,6 +1,75 @@
 ---
 # bibliography: references.bib
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-# Other resources*
+# Other resources
 
+In this section, we have complied various resources that we have found
+useful, both previously listed in this manual and from elsewhere. Note
+that as this list is added to/updated, some links may no longer work or
+refer to the correct page.
+
+-   [Research Methods in Psychology -- 2nd Canadian Edition (Open
+    textbook)](https://opentextbc.ca/researchmethods/)
+
+-   [Introduction to Statistics in the Psychological Sciences (Open
+    textbook)](https://open.umn.edu/opentextbooks/textbooks/709)
+
+-   [Statistics of Doom -- Learn Stats, Coding, and
+    More](https://statisticsofdoom.com/)
+
+-   [Olivier Klein's compendium of methods and stats resources for
+    (social)
+    psychologists](https://cescup.ulb.be/a-compendium-of-useful-stats-pages-for-social-psychologists/#Power)
+
+-   [Open psychological stimulus sets and
+    datasets](https://docs.google.com/spreadsheets/d/1ejOJTNTL5ApCuGTUciV0REEEAqvhI2Rd2FCoj7afops/edit#gid=0)
+
+-   Cognitive science stimulus sets
+    [here](https://www.cogsci.nl/stimulus-sets) and
+    [here](https://sites.temple.edu/cnltu/useful-links/stimuli/)
+
+-   [Open Tools for Programming Experiments in
+    Psychology](https://osf.io/xvrc8/)
+
+-   [R
+    resources](https://docs.google.com/document/d/1qtdiLbU32F_AVNRlF7d23wvPSgTCYqr5TFeBwbncPcw/edit)
+
+-   [Statistical analyses in JASP -- A Guide for
+    Students](https://static.jasp-stats.org/Statistical%20Analysis%20in%20JASP%20-%20A%20Students%20Guide%20v1.0.pdf)
+
+-   [Learning Statistics with
+    Python](https://ethanweed.github.io/pythonbook/landingpage.html)
+
+-   [Research Data and Information
+    Management](https://www.jcu.edu.au/rdim)
+
+-   [GitHub for R users](https://happygitwithr.com/)
+
+-   [The Data Visualization
+    Catalogue](https://datavizcatalogue.com/index.html)
+
+-   [Open Science MOOC (Massive Open Online Community for Open
+    Science)](https://open.umn.edu/opentextbooks/textbooks/709)
+
+-   [Seven Easy Steps to Open Science -- An Annotated Reading
+    List](https://econtent.hogrefe.com/doi/full/10.1027/2151-2604/a000387)
+
+-   [Templates of OSF preregistration forms](https://osf.io/zab38/)
+
+-   [UVic Equity & Human Rights resources](https://www.uvic.ca/equity/)
+
+-   [Raul Pacheco-Vega's blog posts on academic
+    writing](http://www.raulpacheco.org/category/writing/)
+
+-   [Dan Simons' tips on academic writing and
+    revising](http://www.dansimons.com/resources/writing_tips.html)
+
+-   [Henry L. Roediger III's Twelve Tips for
+    Reviewers](https://www.psychologicalscience.org/observer/twelve-tips-for-reviewers)
+
+-   [AP-LS grant writing
+    resources](https://www.apadivisions.org/division-41/awards/grant-writing)

@@ -4,18 +4,23 @@
 
 # Communication
 
+The general communication/supervision structure of our lab for day-to-day activities is:
+
+![](img/Lab%20communication%20structure.png)
+...with Steve typically communicating directly/frequently with graduate students and supervised Honours students, and graduate students communicating/supervising undergraduate RAs working on specific projects. Of course, Steve is more than willing to arrange individual meetings with undergraduate students should the need arise.
+
+## Discord
+
+Recently, we have experimented with online voice, video, and text communication software [Discord](https://discord.com/) for graduate-undergraduate communication. Discord is a communication client similar to Slack or Microsoft Teams, and allows for quick and convenient synchronous/asynchronous communication for day-to-day lab activities. Lab members will be invited to our lab Discord server, where we have separate text channels for different lab projects and initiatives, and an open voice channel that can be used for meetings. Note that because Discord is not managed by UVic, lab members should not post sensitive information (e.g., non-anonymized participant data, lab logins and passwords). Instead, Discord should be primarily used for planning meetings, coordinating data collection and posting useful resources and shared documents. If you are involved in data collection or any other time-sensitive projects, you should check Discord daily on weekdays. You are not expected to check or reply to Discord messages on weekends, holidays, or anytime you have arranged for time away from data collection.
+
 ## Email
 
-Most lab-related communication will occur by email, so please make sure the email address you have on file with me/other lab members is current and an account you check regularly. You should check this account daily on weekdays while you are actively involved in data collection in case of any time-sensitive issues (e.g., room booking conflicts that might require cancellation or room changes), unless you have arranged for another mode of contact with your student supervisor/colleagues on the same project. This is also where we will contact you about lab meeting scheduling and cancellations, which, although we try to avoid it, sometimes occur fairly last minute.
+Most lab-related communication that does not pertain to day-to-day activities will occur by email, so please make sure the email address you have on file with me/other lab members is current and an account you check regularly. You should check this account daily on weekdays while you are actively involved in data collection in case of any time-sensitive issues (e.g., room booking conflicts that might require cancellation or room changes), unless you have arranged for another mode of contact with your student supervisor/colleagues on the same project (e.g., Discord). This is also where we will contact you about lab meeting scheduling and cancellations, which, although we try to avoid it, sometimes occur fairly last minute.
 
 For messages requiring a response or informing you personally of something important (e.g., a change to your usual testing room), please try to respond or acknowledge by the next business day. In the latter case a quick “got it” is sufficient; it’s just helpful to know the message wasn’t lost in the ether. You are not expected to check or reply to lab email on weekends, holidays, or anytime you have arranged for time away from data collection.
 
-### Lab email ([lindlab@uvic.ca](lindlab@uvic.ca))
+### Lab email ([lindlab\@uvic.ca](lindlab@uvic.ca))
 
-If you are involved in data collection you will be given access to the lab email account, which is generally where research participants will contact us with questions, problems, or to let us know why they were or will be unable to make it to their scheduled session. You should check this account before and after your scheduled sessions in case there are messages relevant to you. Often this will not be clear from the subject line, so if you open a message and discover it’s not relevant to you, please make sure to mark it as unread.
+If you are involved in data collection you will be given access to the lab email account, which is generally where research participants will contact us with questions, problems, or to let us know why they were or will be unable to make it to their scheduled session. You should check this account before and after your scheduled sessions in case there are messages relevant to you. Often this will not be clear from the subject line, so if you open a message and discover it's not relevant to you, please make sure to mark it as unread.
 
-When communicating with participants through this account (or via SONA), keep in mind you are representing the lab; there is no need to be overly formal, but please follow basic email etiquette and include an informative subject line, a greeting, and signature. It’s preferable to sign these messages with your own name rather than just Lindsay Lab so others using the account can keep track of who’s dealing with a particular issue.
-
-## Discord*
-
-## Zoom*
+When communicating with participants through this account (or via SONA), keep in mind you are representing the lab; there is no need to be overly formal, but please follow basic email etiquette and include an informative subject line, a greeting, and signature. It's preferable to sign these messages with your own name rather than just Lindsay Lab so others using the account can keep track of who's dealing with a particular issue.

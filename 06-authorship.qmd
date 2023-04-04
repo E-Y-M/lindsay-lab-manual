@@ -4,22 +4,27 @@
 
 # Authorship
 
-All lab members may have the opportunity to contribute to research in a way that merits authorship credit on scientific journal articles, book chapters, spoken presentations, or conference posters. I have worked with student coauthors at all levels. 
+All lab members may have the opportunity to contribute to research in a way that merits authorship credit on scientific journal articles, book chapters, spoken presentations, or conference posters. I have worked with student coauthors at all levels.
 
-Recommendations and practices regarding how authorship credit and order (first author, second author, etc.) are determined vary widely across labs and disciplines, and can be a source of conflict (or – sometimes worse – quiet, simmering resentment). My view is that the best way to pre-empt such problems is to start discussing authorship issues at the very beginning of any project that may eventually lead to a publication or presentation, and continue to discuss and renegotiate if needed as a project proceeds and roles change. I know these discussions can be intimidating for new researchers and that differences in personality and background can make them more difficult for some people than others, but I encourage you to develop confidence in taking credit for and asserting your intellectual contributions, and hope to foster a lab environment where all members feel comfortable hashing out this issues with me and/or each other.
+Recommendations and practices regarding how authorship credit and order (first author, second author, etc.) are determined vary widely across labs and disciplines, and can be a source of conflict (or -- sometimes worse -- quiet, simmering resentment). My view is that the best way to pre-empt such problems is to start discussing authorship issues at the very beginning of any project that may eventually lead to a publication or presentation, and continue to discuss and renegotiate if needed as a project proceeds and roles change. I know these discussions can be intimidating for new researchers and that differences in personality and background can make them more difficult for some people than others, but I encourage you to develop confidence in taking credit for and asserting your intellectual contributions, and hope to foster a lab environment where all members feel comfortable hashing out this issues with me and/or each other.
 
-The American Psychological Association (APA) provides some [useful resources](https://www.apa.org/science/leadership/students/authorship-paper.aspx) regarding authorship determination and “tiebreaking” when contributions are almost equal, but projects vary widely enough that adhering to a [scoring system](https://www.apa.org/science/leadership/students/authorship-determination-scorecard.pdf) does not always make sense. The following are contributions that would usually merit authorship credit (inspired in part by the APA recommendations):
-- Writing or substantially editing any part of a scientific manuscript, or developing a poster or presentation
-- Substantial involvement in developing the research project, including conceptual or methodological suggestions that heavily influence the direction of the project, designing the experiment(s) or instrument(s)/questionnaire(s), or conducting literature reviews 
-- Analyzing data or selecting/planning the analytic approach, developing and testing relevant computational models, independently interpreting analytic results
-- Developing specialized stimulus sets (e.g., one that requires a lot of photography or videography, or substantially modifying images or sound files, or a particularly time-consuming search component). Note that you would not receive authorship credit on all publications and presentations using this stimulus set in perpetuity if you are not otherwise involved with the project, but would typically be offered credit on at least the initial publication (definitely if the stimulus set itself is published), and acknowledged/thanked in footnotes thereafter
-- Involvement in data collection or entry for projects where this component is particularly intensive, e.g., conducting and/or transcribing lengthy interviews
+The American Psychological Association (APA) provides some [useful resources](https://www.apa.org/science/leadership/students/authorship-paper.aspx) regarding authorship determination and "tiebreaking" when contributions are almost equal, but projects vary widely enough that adhering to a [scoring system](https://www.apa.org/science/leadership/students/authorship-determination-scorecard.pdf) does not always make sense. The following are contributions that would usually merit authorship credit (inspired in part by the APA recommendations):
+
+-   Writing or substantially editing any part of a scientific manuscript, or developing a poster or presentation
+
+-   Substantial involvement in developing the research project, including conceptual or methodological suggestions that heavily influence the direction of the project, designing the experiment(s) or instrument(s)/questionnaire(s), or conducting literature reviews
+
+-   Analyzing data or selecting/planning the analytic approach, developing and testing relevant computational models, independently interpreting analytic results
+
+-   Developing specialized stimulus sets (e.g., one that requires a lot of photography or videography, or substantially modifying images or sound files, or a particularly time-consuming search component). Note that you would not receive authorship credit on all publications and presentations using this stimulus set in perpetuity if you are not otherwise involved with the project, but would typically be offered credit on at least the initial publication (definitely if the stimulus set itself is published), and acknowledged/thanked in footnotes thereafter
+
+-   Involvement in data collection or entry for projects where this component is particularly intensive, e.g., conducting and/or transcribing lengthy interviews
 
 Contributions that would not usually, on their own, meet the bar for authorship, but for which you may be acknowledged by name in spoken/poster presentations and/or the footnotes of scientific publications (with your permission):
 
-- Data collection (i.e., testing undergraduate participants) for most projects
-- Stimulus set development that is limited to searching, downloading, and/or straightforward aggregation
-- Simple data entry or organization
-- Literature searches limited to the search itself (i.e., no reading/reviewing, curation, or judgment involved)
+-   Data collection (i.e., testing undergraduate participants) for most projects
+-   Stimulus set development that is limited to searching, downloading, and/or straightforward aggregation
+-   Simple data entry or organization
+-   Literature searches limited to the search itself (i.e., no reading/reviewing, curation, or judgment involved)
 
 Determining authorship order adds a layer of complexity, but the numbers on the scoring system linked above are a good rough guide to the kinds of contributions that are usually weighted more heavily. As a general rule, Masters, PhD, and honours students will be assigned lead/first authorship on any publications or presentations heavily based on their thesis or dissertation work. By the nature of the supervisory relationship I will often be involved enough in your projects to be listed as a coauthor (second or later, project-dependent), but supervision and provision of funding/other resources are not themselves authorship-level contributions, so this need not always be the case (e.g., for projects you pursue mostly independently, as part of a course, or with others in the department).
