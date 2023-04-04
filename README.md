@@ -1,4 +1,4 @@
-This Quarto book is intended to be used for **incoming, current, and outgoing** members of the Lindsay Lab. 
+This Quarto book is intended to be used for **incoming, current, and outgoing** members of the [Lindsay Lab](https://onlineacademiccommunity.uvic.ca/lindsaylab/) at UVic. 
 
 **Acknowledgements**
 
