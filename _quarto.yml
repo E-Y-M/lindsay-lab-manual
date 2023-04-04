@@ -2,6 +2,9 @@ project:
   type: book
   output-dir: _book
   
+theme:
+  - comso
+  
 book:
   title: "Lindsay Lab Manual"
   author: "Kaitlyn M. Fallow, Eric Y. Mah, & D. Stephen Lindsay"
