@@ -2,7 +2,7 @@
 # bibliography: references.bib
 ---
 
-# Lab Practices
+# Lab Practices {#lab-practices}
 
 This section is intended as a starting point toward establishing more formal lab policy regarding methodological transparency, data management practices, and research ethics above and beyond the mandated baseline. Best practices in these domains are constantly evolving so I expect this document will be regularly updated. These policies (and less formal recommendations) will be mostly applicable to graduate students who will be conducting original research in the lab over a longer term, but honours students will also be expected to adopt some of these practices, and others interested in research may find some tidbits of interest. 
 
