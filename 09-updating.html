@@ -144,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./10-other-resources.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Other resources*</span></a>
+  <a href="./10-other-resources.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Other resources</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -157,14 +157,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#github" id="toc-github" class="nav-link active" data-scroll-target="#github"><span class="toc-section-number">9.1</span>  GitHub</a></li>
-  <li><a href="#quarto" id="toc-quarto" class="nav-link" data-scroll-target="#quarto"><span class="toc-section-number">9.2</span>  Quarto</a></li>
-  </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/E-Y-M/lindsay-lab-manual/edit/main/09-updating.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/E-Y-M/lindsay-lab-manual/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -186,14 +179,36 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="github" class="level2" data-number="9.1">
-<h2 data-number="9.1" class="anchored" data-anchor-id="github"><span class="header-section-number">9.1</span> GitHub</h2>
-</section>
-<section id="quarto" class="level2" data-number="9.2">
-<h2 data-number="9.2" class="anchored" data-anchor-id="quarto"><span class="header-section-number">9.2</span> Quarto</h2>
+<p>The intention is that this document serve as a “living” lab manual that is constantly updated/adapted as necessary. To facilitate this, I have included the following basic guide. Updating the lab manual requires Git(Hub) and R(Studio) but I have written the guide with the intention that those with no prior experience can proceed without too much hassle. Note that although the basic steps will likely remain the same in the years to come, there may be minor deviations due to updates to the requisite software packages. For non-lab users that are interested in adapting this manual, I suggest using the Fay Lab’s manual (the original template) and their accompanying <a href="https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&amp;-publishing-it">guide</a>.</p>
+<ol type="1">
+<li><p>Install the latest versions of <a href="https://cran.r-project.org/bin/windows/base/">R</a> and <a href="https://posit.co/products/open-source/rstudio/">RStudio/Posit</a></p></li>
+<li><p>Install the latest version of <a href="https://quarto.org/docs/get-started/">Quarto</a></p></li>
+<li><p>Install the latest version of <a href="https://git-scm.com/">Git</a> and create an account on <a href="https://github.com/">GitHub</a></p></li>
+<li><p>Request administrator access to the <a href="https://github.com/E-Y-M/lindsay-lab-manual">GitHub project for the lab manual</a> via email (ericmah@uvic.ca)</p></li>
+<li><p>In RStudio, create a new project (“File” -&gt; “New Project”), and select “Version Control”, and “Git”</p></li>
+<li><p>On the GitHub page, click the green “Code” button, navigate to the “Local” tab, and select “HTTPS”. Copy the link in the box below</p></li>
+<li><p>Paste this link into the “Repository URL” box in RStudio. When selecting a folder (subdirectory) for the project, it doesn’t matter where you put it, but you should avoid putting it in any cloud storage folders (Dropbox), as these can interfere with Git.</p></li>
+<li><p>Once you confirm, RStudio will clone the files to the local folder that you specified.</p></li>
+<li><p>You are now ready to edit the manual. A complete guide to formatting markdown files using Quarto is beyond the scope of this manual, but see <a href="https://quarto.org/docs/authoring/markdown-basics.html">this link</a> for a comprehensive guide. Quarto has a visual editor UI that is quite similar to traditional word processors (e.g., Word). Below, I include a couple common changes that you might want to make:</p>
+<ol type="1">
+<li><p>Adding a new page: The simplest way to do this is to create a new Quarto markdown (.qmd) document, or copying one of the existing markdown files (e.g., 01-introduction.qmd). To add the new page into the manual, open the “_quarto.yml” file, and add the new page to the “chapters” section near the bottom of the file in the position that you want it. It is recommended (but not required) that you update the names/numbers of the existing pages for any new order that you create.</p></li>
+<li><p>Editing existing pages: This is done simply by opening, changing, and saving the existing .qmd files. The landing page for the lab manual is the “index.qmd” file. See the formatting guide linked above for tips on formatting various kinds of content.</p></li>
+</ol></li>
+<li><p>Once you have made the desired changes, you will need to “push” them to GitHub. This can be done by navigating to the terminal (bottom-left box in RStudio) and inputting the following bolded commands (except anything in parentheses):</p>
+<ol type="1">
+<li><p><code>git add –A</code></p></li>
+<li><p><code>git commit -m "Your message here"</code> (In the quotations, enter a short message describing your changes) c</p></li>
+<li><p><code>git push</code> (You may be prompted to enter your GitHub password here)</p></li>
+</ol></li>
+<li><p>Now that the changes have been made to the GitHub, you will need to sync them so that the website link updates as well. Go back to the manual GitHub page, click on “Settings”, and go to “Secrets”.</p></li>
+<li><p>Click on the “New repository secret” in the upper right</p></li>
+<li><p>You will be prompted to enter a “Name” for the secret. In this box, enter <code>EMAIL</code></p></li>
+<li><p>In the “Value” box, enter the email associated with your GitHub account, and click “Add secret”</p></li>
+<li><p>Now, any time you commit changes to the manual, it should be updated on the live page. To verify this, you can go to the “Actions” tab on the manual GitHub page, click on the latest “pages-build-deployment” Action once it is completed (green check mark), and then navigate to the <a href="https://e-y-m.github.io/lindsay-lab-manual/">lab manual link shown in the “deploy” box</a></p></li>
+<li><p>That’s all! Remember to update the contact email(s) in step 4. of this guide to your own.</p></li>
+</ol>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -337,7 +352,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
   <div class="nav-page nav-page-next">
       <a href="./10-other-resources.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Other resources*</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Other resources</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
