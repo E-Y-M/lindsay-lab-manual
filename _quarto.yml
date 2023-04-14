@@ -98,6 +98,7 @@ book:
   chapters: 
     - index.qmd
 #    - 01-introduction.qmd
+    - 01a-joining.qmd
     - 02-lab-philosophy.qmd
     - 03-lab-resources.qmd
     - 04-roles.qmd
