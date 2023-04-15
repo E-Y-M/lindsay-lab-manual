@@ -36,6 +36,8 @@ created by [Maryam Ali](https://github.com/alylab/labmanual), [John Paul
 Minda](https://osf.io/8b6kj/), and [Maureen Ritchey](https://github.com/memobc/memolab-manual), from which we gained
 specific inspiration.
 
+Finally, we acknowledge with respect and appreciation the Lkwungen-speaking peoples on whose traditional territory the University of Victoria stands and the Songhees, Esquimalt, and WSÁNEĆ peoples whose historical relationships with the land continue to this day.  We strive to make our lab a safe and welcoming place for students of diverse backgrounds, genders, and abilities.
+
 [![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left"
 width="35px"}](https://github.com/E-Y-M/lindsay-lab-manual) \< link to this
 book's GitHub repository.

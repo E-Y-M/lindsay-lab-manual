@@ -7,7 +7,7 @@
 The general communication/supervision structure of our lab for day-to-day activities is:
 
 ![](img/Lab%20communication%20structure.png)
-...with Steve typically communicating directly/frequently with graduate students and supervised Honours students, and graduate students communicating/supervising undergraduate RAs working on specific projects. Of course, Steve is more than willing to arrange individual meetings with undergraduate students should the need arise.
+...with Dr. Lindsay typically communicating directly/frequently with graduate students and supervised Honours students, and graduate students communicating/supervising undergraduate RAs working on specific projects. Of course, Dr. Lindsay is more than willing to arrange individual meetings with undergraduate students should the need arise.
 
 ## Discord
 

@@ -129,7 +129,7 @@ Although seeking HREB approval will not likely be one of the first chronological
 
 Making determinations such as under what circumstances people have a reasonable expectation of privacy is not always clear cut. As such, if you are planning to conduct a project that falls into one of these categories and are at all uncertain as to whether it meets the exemption criteria, you should always err on the side of contacting someone at the HREB.
 
-If you are planning a new study, Steve/your other supervisor(s) will help you determine whether your proposal falls under an already approved ethics protocol, can be accommodated by amending an existing protocol, or will require an entirely new HREB application. This manual does not aim to provide a guide to that process, which the HREB website has well covered, nor to fully outline the TCPS guidelines. Instead, I hope to (1) reiterate the importance of a few fundamental ethical research principles worth keeping in mind when planning, designing, and disseminating the results of a study, and steps that can be taken to bring psychological research in closer adherence with these principles (above and beyond complying with HREB policies, which is of course non-negotiable), and (2) draw particular attention to situations where open science ideals and human research ethics may conflict, and suggest ways of balancing these concerns.
+If you are planning a new study, Dr. Lindsay/your other supervisor(s) will help you determine whether your proposal falls under an already approved ethics protocol, can be accommodated by amending an existing protocol, or will require an entirely new HREB application. This manual does not aim to provide a guide to that process, which the HREB website has well covered, nor to fully outline the TCPS guidelines. Instead, I hope to (1) reiterate the importance of a few fundamental ethical research principles worth keeping in mind when planning, designing, and disseminating the results of a study, and steps that can be taken to bring psychological research in closer adherence with these principles (above and beyond complying with HREB policies, which is of course non-negotiable), and (2) draw particular attention to situations where open science ideals and human research ethics may conflict, and suggest ways of balancing these concerns.
 
 ### Potential harms, benefits, and the importance of "taking the perspective of the participant"
 
@@ -203,7 +203,7 @@ Because "successful" participation depends to some extent on comprehending verba
 
 The internet seems to provide a clear if imperfect solution to the problem of overreliance on WEIRD samples in psychology. Of course, conducting research online is not a panacea; regular internet access remains an inequitably distributed privilege (Poushter, 2016) such that even a sample representative of the entire internet user base would be far from representative of humanity, and in reality demographics tend to be further skewed by factors like how participants are recruited, publishing surveys in English only, and providing little or no financial compensation. Nonetheless, the internet can at least in theory provide access to a more diverse sample than the UVic participant pool and even the local community, so an online sample may be worth considering if you are interested in trying to improve the overall generalizability of your research, establish the generalizability of a particular effect, or specifically reach out to underrepresented populations.
 
-Providing you follow ethics guidelines and receive explicit HREB approval for a given recruitment/advertisement method, you can recruit participants online in a number of ways, e.g., by linking to your study on social media, posting on any of the numerous dedicated platforms for research recruitment, or even advertising on classified websites. The best approach in a particular case will depend on your goals in collecting data online, and this is something you will discuss with Steve and others involved in your project, but some guidance on crowdsourcing platforms in particular is provided below.
+Providing you follow ethics guidelines and receive explicit HREB approval for a given recruitment/advertisement method, you can recruit participants online in a number of ways, e.g., by linking to your study on social media, posting on any of the numerous dedicated platforms for research recruitment, or even advertising on classified websites. The best approach in a particular case will depend on your goals in collecting data online, and this is something you will discuss with Dr. Lindsay and others involved in your project, but some guidance on crowdsourcing platforms in particular is provided below.
 
 ##### Crowdsourcing platforms
 
@@ -282,6 +282,40 @@ It is important that participants are made aware of the purpose of the research 
 There are some circumstances under which participants should be debriefed even if they do not finish the experiment. A good rule of thumb in the on campus context is that *almost* everyone who receives credit for a study should be debriefed regarding the purpose of that study, the only exception being individuals who could validly participate in the same study in the future -- e.g., if a computer glitch in the very beginning forces you to end a session, or the experimenter does not show up at all, individuals in such sessions can participate another time for full credit and should not be debriefed unless they indicate they are not interested in participating. Potential participants with disabilities that preclude them from standard participation should be fully debriefed, as should individuals who opt to withdraw consent during the experiment (although they of course should not be forced to stay to hear the debriefing information if they are dealing with an urgent situation or clearly uncomfortable).
 
 You are encouraged to consider going above and beyond in terms of providing opportunities for participants to learn from their participation. An easy example is making yourself available after experimental sessions to answer questions and further discuss the study with participants who might want to do so, or inviting them to contact you via email after the fact. Researchers also sometimes offer to send out the results of a study to interested participants once it is complete, but given the realities of academic life it is easy for this to slip down the priority list and be forgotten when the time actually comes to deal with the results. We are moving toward implementing a system that is less susceptible to the vagaries of researchers' prospective memory, namely identifying projects on the OSF with particular distinctive tags or keywords that are easy to provide participants with either verbally or in printed form.
+
+### An example experiment session {#example-session}
+
+Putting all of this together, what can you expect out of a typical in-person experiment session with UVic undergraduates? The procedures listed below will vary from experiment to experiment, but will generally be similar to what is described below:
+
+1.  Prior to the session:
+
+    1.  Ensure with your supervising graduate student or lab manager that the testing space has been booked
+
+    2.  Check the experiment SONA page to see how many participants have signed up for the session
+
+    3.  Arrive 5-10 minutes prior to the session start time and do any setup necessary (e.g., logging into computers and loading local/online experiments, putting any experment instructions up on the projector)
+
+    4.  As participants arrive, have them sign the research participation record
+
+    5.  At the scheduled start time, notify participants that the experiment will be starting (there can be some leeway with this, e.g., waiting 3-5 minutes until all participants have arrived and settled in)
+
+2.  During the session:
+
+    1.  If applicable, introduce participants to the experiments via any provided scripts, inform participants that they can raise their hand if they have any questions, and inform participants that they are free to withdraw from the study at any time without reason or consequence, and they will be granted the full compensation (this will be included in consent forms but is important to reiterate to participants)
+
+    2.  If debriefing is included in the experiment program, let participants know that they can leave once they've finished the experiment. Otherwise, tell participants that they should not leave until instructed to do so, but to indicate in some way that they've finished the experiment (e.g., by placing the keyboard on top of the PC) so you have an idea of when everyone has finished.
+
+    3.  Do your best to answer any questions or resolve any issues raised by participants. Obviously you won't be able to answer questions about the true study purpose prior to debriefing, but questions of clarification or technical issues are fair game. If you encounter a question you can't answer or an issue you can't resolve, don't stress. Merely provide what information you can and make a note, and contact your supervising graduate student or lab manager after the session.
+
+3.  After the session:
+
+    1.  Once all participants have completed the experiment, if there is a verbal debriefing read that to the participants and give them an opportunity to ask any questions.
+
+    2.  Once debriefing is complete and the participants have left, copy any local experiment data from the PCs (if applicable) to a lab USB, log off the computers, and ensure the room is as you left it
+
+    3.  Drop off the research participation record sheet and any lab USBs in Cornett A179
+
+    4.  Contact your supervising graduate student or lab manager if there were any issues or unresolved questions during the session
 
 ## Maintaining and storing records
 
@@ -447,7 +481,7 @@ The archive you create for this purpose should also adhere to the backup rules a
 
 #### Guidelines for naming and organizing files
 
-I will not prescribe a particular approach to file naming and organization for your personal use; as long as you develop a system that works for you, that\'s fine. That said, I will want the final archived version of each project formatted according to these guidelines, and you may find it useful to adapt some of them in your own system.
+I will not prescribe a particular approach to file naming and organization for your personal use; as long as you develop a system that works for you, that's fine. That said, I will want the final archived version of each project formatted according to these guidelines, and you may find it useful to adapt some of them in your own system.
 
 ##### General advice
 
@@ -455,13 +489,13 @@ Much of the following has been adapted from a [slide presentation](https://speak
 
 ·       In naming both files and variables, use hyphens and/or underscores rather than spaces to separate words. This preserves human readability while vastly improving machine readability.
 
-·       File and variable names should follow the general principle of being \"descriptive but brief\".
+·       File and variable names should follow the general principle of being "descriptive but brief".
 
-·       Some recommend naming files themselves fairly generically and relying on folder structure to identify what the file is. I prefer some redundancy here so that files will be identifiable even if they somehow end up stored out of context (maybe unlikely, but better safe than sorry). You don\'t have to reproduce the whole folder structure in the name, but at least include the project name/number if applicable, year, and if it\'s something you have authored or generated (e.g., script, or highly processed data), and your initials.
+·       Some recommend naming files themselves fairly generically and relying on folder structure to identify what the file is. I prefer some redundancy here so that files will be identifiable even if they somehow end up stored out of context (maybe unlikely, but better safe than sorry). You don't have to reproduce the whole folder structure in the name, but at least include the project name/number if applicable, year, and if it's something you have authored or generated (e.g., script, or highly processed data), and your initials.
 
 ·       You may wish to include a version number for files you are likely to change substantially but may also need to revisit old versions of, but using a formal version control system can obviate the need for this.
 
-You can\'t always rely on \"date created/modified\" metadata to determine the history of a given file as they may get moved around, and this information sometimes gets overwritten in the process. So for files for which you anticipate this being important information, it may be worth including a date in the filename. If you do so, make sure to stick with a uniform format across files, preferably the near-universal YYYY-MM-DD.
+You can't always rely on "date created/modified" metadata to determine the history of a given file as they may get moved around, and this information sometimes gets overwritten in the process. So for files for which you anticipate this being important information, it may be worth including a date in the filename. If you do so, make sure to stick with a uniform format across files, preferably the near-universal YYYY-MM-DD.
 
 #### Lab hard drive format
 
@@ -495,9 +529,9 @@ metamemory-judgments_08-06-391b \[*parent project name with HREB identifier*\]
 
 ## Reference management
 
-Although it used to be the norm for students and researchers to end up with huge piles of printed or photocopied research articles at the end of a project, the more common modern equivalent is the folder full of pdfs with unintelligible names. Better-organized folks than myself may be able to keep on top of this manually in a way that works for them, but in my experience it can spiral out of control very quickly, especially when you are trying to juggle literature associated with multiple projects and/or courses at the same time. Even if you think your current system is working, I highly recommend trying out a reference manager or two early in your career. Most of these tools have some capacity to extract important metadata such as article titles, journal and author names, and publication dates from pdfs or other file formats; organize and rename your files in a meaningful way (e.g., into folders named by first author, and files named \"\[Article title (Year)\].pdf\"; some combination of in-program folder- and or tag-based system for sorting articles by project, class, or topic(s); plugins that allow for easy in-text citations and bibliography generation in programs like Microsoft Word, and cloud-based syncing systems that allow you to access articles across different devices.
+Although it used to be the norm for students and researchers to end up with huge piles of printed or photocopied research articles at the end of a project, the more common modern equivalent is the folder full of pdfs with unintelligible names. Better-organized folks than myself may be able to keep on top of this manually in a way that works for them, but in my experience it can spiral out of control very quickly, especially when you are trying to juggle literature associated with multiple projects and/or courses at the same time. Even if you think your current system is working, I highly recommend trying out a reference manager or two early in your career. Most of these tools have some capacity to extract important metadata such as article titles, journal and author names, and publication dates from pdfs or other file formats; organize and rename your files in a meaningful way (e.g., into folders named by first author, and files named "\[Article title (Year)\].pdf"; some combination of in-program folder- and or tag-based system for sorting articles by project, class, or topic(s); plugins that allow for easy in-text citations and bibliography generation in programs like Microsoft Word, and cloud-based syncing systems that allow you to access articles across different devices.
 
-UVic Libraries provides a [guide](http://libguides.uvic.ca/citations) to some of the most commonly used reference managers, including a [comparison](http://libguides.uvic.ca/c.php?g=256836&p=1714605) of various features that might be of importance to you. I can vouch for the ease of use and high-quality metadata extraction of both Zotero and Mendeley, but in terms of open science and data preservation Zotero, which is open source, is a better bet. Mendeley is currently owned by the academic publishing giant Elsevier, and thus comes with some [privacy](https://www.elsevier.com/legal/privacy-policy) and [ethical](http://thecostofknowledge.com/) concerns, as well as some risk of losing control over your library/annotations or becoming locked in to the platform given its proprietary nature. York University\'s library provides a [detailed comparison](https://www.library.yorku.ca/web/research-learn/citations/zotero-vs-mendeley-comparison/) of various features and pros and cons of the two programs.
+UVic Libraries provides a [guide](http://libguides.uvic.ca/citations) to some of the most commonly used reference managers, including a [comparison](http://libguides.uvic.ca/c.php?g=256836&p=1714605) of various features that might be of importance to you. I can vouch for the ease of use and high-quality metadata extraction of both Zotero and Mendeley, but in terms of open science and data preservation Zotero, which is open source, is a better bet. Mendeley is currently owned by the academic publishing giant Elsevier, and thus comes with some [privacy](https://www.elsevier.com/legal/privacy-policy) and [ethical](http://thecostofknowledge.com/) concerns, as well as some risk of losing control over your library/annotations or becoming locked in to the platform given its proprietary nature. York University's library provides a [detailed comparison](https://www.library.yorku.ca/web/research-learn/citations/zotero-vs-mendeley-comparison/) of various features and pros and cons of the two programs.
 
 Other points of caution, regardless of which program you use, are
 

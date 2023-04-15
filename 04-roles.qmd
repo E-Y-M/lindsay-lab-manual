@@ -6,11 +6,11 @@
 
 ## Research Assistants
 
-Research assistants (RAs) are most often involved in scheduling and testing undergraduate research participants, but sometimes work on other tasks such as data entry, transcription, developing stimulus sets, and experiment programming. The availability of paid positions varies from year to year depending on our current funding situation, so RAs are often volunteers. It is my goal for all RAs to have a rewarding and educational experience in the lab, but this is especially important if you are not being compensated for your time and labour. If at any point you feel you are not getting what you hoped out of your experience, I encourage you to talk to me so that we can try to find work and training opportunities more in line with your goals or, if that is not possible, point you toward other labs that might be a better fit.
+Research assistants (RAs) are most often involved in scheduling and testing undergraduate research participants (for an example of what a typical in-person testing session might look like see [this section](https://e-y-m.github.io/lindsay-lab-manual/08-lab-practices.html#example-session)), but sometimes work on other tasks such as data entry, transcription, developing stimulus sets, and experiment programming. The availability of paid positions varies from year to year depending on our current funding situation, so RAs are often volunteers. It is my goal for all RAs to have a rewarding and educational experience in the lab, but this is especially important if you are not being compensated for your time and labour. If at any point you feel you are not getting what you hoped out of your experience, I encourage you to talk to me so that we can try to find work and training opportunities more in line with your goals or, if that is not possible, point you toward other labs that might be a better fit.
 
 ### Hours and scheduling
 
-RAs are typically expected to be able to commit to around 6 hours/week of lab work on average (including weekly lab meetings, other meetings related to lab projects, and training sessions), although the availability of hours may vary substantially over the course of the semester depending on lab needs. Scheduling for most projects is highly flexible and you do not need to commit to working the same hours every week. If there are weeks you are particularly busy with midterms or other commitments, it is perfectly fine to take those weeks off from lab work entirely.
+RAs are typically expected to be able to commit to around 6 hours/week of lab work on average (including weekly lab meetings, other meetings related to lab projects, and training sessions), although the availability of hours will vary substantially over the course of the semester depending on lab needs. It is important to note that the estimate hours is an average -- there may be some weeks where there is little/no work and some weeks (e.g., during peak SONA data collection periods near the beginning and end of the semester, or near to conferences) where there will be more work. But, scheduling for most projects is highly flexible and you do not need to commit to working the same hours every week. If there are weeks you are particularly busy with midterms or other commitments, it is perfectly fine to take those weeks off from lab work entirely.
 
 Projects run in the lab's individual testing rooms (Cornett A178 and A179) will require you to book space on the lab's Google Calendar. These rooms are kept locked so if you are working on a project that requires access we will request the department assign you a key that opens both rooms as well as the external door (A177), which will require you to bring ID and a \$5 deposit (that will be returned when you return the key at the end of the semester) to the Psychology main office.
 
@@ -18,7 +18,19 @@ If you are working on a project that requires booking computer lab space, you wi
 
 ### RA Onboarding
 
-RAs that will be taking on hourly paid roles will need to fill out a [new hire form](https://www.uvic.ca/vpfo/financial-services/assets/docs/payroll/Resources/dept-web-time-entry/new-rehire-form-web-time-entry.pdf) (Note that you may need to login with your UVic account to access this form). This form may also be provided to you by the lab manager or supervising graduate student. For information on how to enter your worked hours for approval, see [this link](https://www.uvic.ca/vpfo/financial-services//resources/payroll/employee-dashboard/entering-your-timesheet.php).
+The general onboarding process/checklist for new RAs is as follows:
+
+-   Read and familiarize yourself with the following manual sections: [Lab Philosophy and General Code of Conduct](https://e-y-m.github.io/lindsay-lab-manual/02-lab-philosophy.html), this section, [Roles and Expectations](https://e-y-m.github.io/lindsay-lab-manual/04-roles.html), [Communication](https://e-y-m.github.io/lindsay-lab-manual/05-communication.html), and [Lab Spaces and Resources](https://e-y-m.github.io/lindsay-lab-manual/03-lab-resources.html)
+
+-   If you will be taking on a paid position, fill out a [new hire form](https://www.uvic.ca/vpfo/financial-services/assets/docs/payroll/Resources/dept-web-time-entry/new-rehire-form-web-time-entry.pdf) (Note that you may need to login with your UVic account to access this form). This form may also be provided to you by the lab manager or supervising graduate student. For information on how to enter your worked hours for approval, see [this link](https://www.uvic.ca/vpfo/financial-services//resources/payroll/employee-dashboard/entering-your-timesheet.php).
+
+-   Prior to conducting any research with human subjects, ensure that you have completed the [Tri-Council Policy Statement (TCPS-2 CORE) ethical certification course](https://tcps2core.ca/welcome). Although this course is fairly comprehensive, I also highly recommend reviewing our own guidelines and recommendations for research ethics [here](https://e-y-m.github.io/lindsay-lab-manual/08-lab-practices.html#human-research-ethics).
+
+-   Meet with Dr. Lindsay and/or graduate students in the lab to determine which project(s) you would like to be involved in and in what capacity you will be involved in those projects
+
+-   Prior to running (or co-running) any study sessions, sit in on *at least two* study sessions run by another RA or graduate student
+
+-   Prior to running any study sessions by yourself, complete *at least one* "practice session" where you are supervised by another project RA or graduate student
 
 ### Research and Scientific Ethics
 

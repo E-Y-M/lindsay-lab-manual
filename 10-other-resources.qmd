@@ -15,6 +15,20 @@ refer to the correct page.
 -   [Research Methods in Psychology -- 2nd Canadian Edition (Open
     textbook)](https://opentextbc.ca/researchmethods/)
 
+-   [R Programming 101
+    (YouTube)](https://www.youtube.com/@RProgramming101)
+
+-   [StatQuest with Josh Starmer
+    (YouTube)](https://www.youtube.com/@statquest)
+
+-   [zedstatistics (YouTube)](https://www.youtube.com/@zedstatistics)
+
+-   [jbstatistics (YouTube) introductory statistics
+    videos](https://www.youtube.com/@jbstatistics)
+
+-   UVic Psych alumni Dr. Chad William's excellent ['Get R Done' YouTube
+    tutorial series for R](https://www.youtube.com/@ChadCWilliams)
+
 -   [Introduction to Statistics in the Psychological Sciences (Open
     textbook)](https://open.umn.edu/opentextbooks/textbooks/709)
 
