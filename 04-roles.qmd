@@ -66,4 +66,44 @@ Regarding the thesis itself, we will set informal, section-by-section writing de
 
 Because you are likely to be dealing more directly with data than RAs, you will also be subject to certain expectations regarding good data management and thorough documentation. You will also be expected, time permitting, to pre-register your research plan. Some information and guidelines related to these expectations are available in the Lab Practices section of this document, but you will receive further guidance as your project proceeds.
 
-## Graduate Students
+## Graduate Students (NEW, DRAFT)
+
+In general, the graduate student experience in the Lindsay Lab can vary from student to student and project to project, with a fair amount of flexibility. The aim of this section is to provide a broad framework that is likely to apply to most graduate students. Much of the specific expectations will be determined in initial meetings with Dr. Lindsay and updated throughout your degree as necessary. For current department- and program-level guidelines, resources, and expectations at UVic, we highly recommend checking out the [UVic Psychology Graduate Training Handbook](https://www.uvic.ca/socialsciences/psychology/assets/docs/current/gradRegs.pdf)
+
+### MSc
+
+Although topics chosen by MSc students vary, students will general adapt an ongoing research line in the lab for their Master's Thesis. The aforementioned Graduate Training Handbook has several sections that provide guidance on the thesis (e.g., committees, thesis format, oral examination). For examples of recent MSc theses from the lab, see:
+
+[Dr. Mario Baldassari: Predicting Lineup Identifications](https://dspace.library.uvic.ca/handle/1828/8909)
+
+[Dr. Kaitlyn Fallow: Characterizing the Materials-Based Bias Effect: A Robust yet Mysterious Conservative Response Bias in Recognition Memory for Paintings](https://dspace.library.uvic.ca/handle/1828/5830)
+
+[Eric Mah: Improving Lineup Effectiveness through manipulation of eyewitness judgment strategies](https://dspace.library.uvic.ca/handle/1828/11968)
+
+These will give you a general idea of the typical scope and depth of theses in the lab.
+
+### PhD
+
+Dissertations will often follow naturally from the thesis in terms of topic, and typically involve 2-3 manuscripts worth of empirical and theoretical work. Dissertations most often follow the 'five-chapter' format, but can also follow the 'three-article' or 'manuscript-style' format. Again, a fair amount of flexibility. For examples of lab dissertations, see:
+
+[Dr. Mario Baldassari: Two approaches to assessing eyewitness accuracy](https://dspace.library.uvic.ca/handle/1828/8909)
+
+[Dr. Kaitlyn Fallow: Test position effects on recognition memory for pictures and words](https://dspace.library.uvic.ca/handle/1828/13463)
+
+Alongside the dissertation, students in the department must complete *candidacy exams,* which comprise a *major* and *minor* component. These have historically been *exams* in name only, and more typically take the form of projects that allow students to demonstrate core competencies in research, theory, and methods. In fact, the original form of this lab manual was Dr. Kaitlyn Fallow's major candidacy. Other examples of major and minor exams include comprehensive literature reviews (that may later be directly incorporated into the dissertation itself) or development of code/programs. There is a lot of flexibility in terms of what students can do for their candidacy exams.
+
+### Communication
+
+The frequency of student-supervisor communication will vary as a function of student need and supervisor availability. For students starting out, there will typically be weekly meetings (Zoom or in-person) to discuss progress and updates. For students later in their degree, meetings may be less frequent and scheduled based on need. Regardless of meeting frequency, graduate students are expected to maintain regular email communication re:ongoing projects and relevant updates.
+
+### Coursework and TA-ing
+
+Coursework requirements for MSc/PhD students in the Cognition & Brain Sciences program at UVic are relatively light, and typically consist of a handful of statistics courses, independent study/research apprenticeships (which usually take the form of a semester-long project or targeted seminar with another faculty member in the department), higher-level seminar courses, and regular enrollment in the [Cognition and Brain Sciences Seminar](https://www.uvic.ca/socialsciences/psychology/graduate/brain-sciences/cabssem/index.php), a weekly seminar series where department students, faculty, and invited guests present on their research. See the [department page](https://www.uvic.ca/socialsciences/psychology/graduate/brain-sciences/index.php) for specific MSc/PhD course requirements.
+
+Almost all graduate students in the lab take on teaching assistantships (TAs). These are a valuable means of gaining teaching experiences and a source of graduate student funding, but it is up to the student as to how many TA positions they wish to take on during the course of their degree. Students highly interested in academic teaching positions might TA the majority of semesters. There are also opportunities for students (typically PhD) to teach courses in the department.
+
+### Professional Development
+
+Outside of academic skill development, graduate students are encouraged to consider professional development opportunities. Participation in department- or university-level organizations is one avenue for such opportunities. For example, students in the Lindsay Lab have been fruitfully involved with departmental organizations such as the [Psychology Graduate Student Council](https://onlineacademiccommunity.uvic.ca/pgsc/) and the [Equity, Diversity, and Inclusion Committee](https://www.uvic.ca/socialsciences/psychology/home/diversity/index.php). Involvement in these organizations is a great way to get involved in and make contributions to the department (and build your CV).
+
+Although no current/past graduate students have taken on co-op work, UVic has provisions in place for [interested graduate students](https://www.uvic.ca/coop/info-for/graduate-students/index.php). Co-op positions may be especially worthwhile for those considering careers outside academia (see this [APS post](https://www.psychologicalscience.org/observer/careers-outside-academia-webinar) for examples). Students will typically discuss professional development goals in initial meetings with Dr. Lindsay, and revisit these goals throughout the degree.
