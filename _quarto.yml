@@ -18,7 +18,7 @@ book:
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   site-url: https://e-y-m.github.io/lindsay-lab-manual/
   repo-url: https://github.com/E-Y-M/lindsay-lab-manual
-  repo-actions: [edit,issue]
+  repo-actions: [issue]
 
 # Proposed chapter layout
 # 1 - Intro
