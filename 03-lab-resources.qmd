@@ -6,10 +6,11 @@
 
 ## Lab Rooms
 
-The lab’s graduate student office is located in Cornett A193 and has desk room and desktop PCs with 2 monitors for three students. Currently only two of these are occupied, so the third is available for use by honours students and research assistants on a drop-in basis as long as the room is open. 
+The lab’s graduate student office is located in Cornett A193 and has desk room and desktop PCs with 2 monitors for three students. Currently only two of these are occupied, so the third is available for use by honours students and research assistants on a drop-in basis as long as the room is open. Please do not install software on lab computers without express permission from Prof. Lindsay or the Lab Manager.
+
 We have two individual participant testing rooms, each with a desktop PC and a single monitor, located in Cornett A178 and A179. Both are equipped to run experiments using E-Prime software. These rooms are also available for student use when they are not occupied for the purpose of participant testing. Reserving these rooms for either purpose is done through a shared Google Calendar, which you will be given access to as needed or upon request. 
 
-The CaBS department meeting room, Cornett A069, is most often used for lab meetings but is available for other purposes (e.g., holding tutorials or training sessions, practicing presentations, etc.). Reservations are made through a shared Google Calendar that Steve has ongoing access to, and CaBS graduate students can request personal access from the administrator (currently also [Dr. Lindsay](mailto:slindsay@uvic.ca)). 
+The CaBS department meeting room, Cornett A069, is most often used for lab meetings but is available for other purposes (e.g., holding tutorials or training sessions, practicing presentations, etc.). Reservations are made through a shared Google Calendar that I have ongoing access to, and CaBS graduate students can request personal access from the administrator (currently also [me](mailto:slindsay@uvic.ca)). 
 
 ## UVic testing spaces
 
@@ -26,5 +27,6 @@ We currently have two active licences for the experiment development and adminis
 
 For running online experiments, the lab also has access to a Qualtrics Survey Software license. See [this site](http://sites.cognitivescience.co/qualtrics/building-a-psychology-experiment) for useful tutorials on designing Qualtrics surveys and experiments for psychological research.
 
-In recent years, we have also begun using freely-available [PsychoPy](https://www.psychopy.org/) to design experiments in Python (which can then be administered online via [Pavlovia](https://pavlovia.org/) for a small per-participant cost). See [this site](https://psychopy.org/gettingStarted.html) for helpful information and tutorials.
+In recent years, we have also begun using freely available [PsychoPy](https://www.psychopy.org/) to design experiments in Python (which can then be administered online via [Pavlovia](https://pavlovia.org/) for a small per-participant cost). See [this site](https://psychopy.org/gettingStarted.html) for helpful information and tutorials.
 
+In terms of statistical analysis software, the lab does not have a licence for SPSS. We attempt to keep the freely available [JASP](https://jasp-stats.org/) and [R/RStudio](https://posit.co/products/open-source/rstudio/) up to date on lab computers and recommend that students use these programs for analyses when appropriate. JASP offers an easy-to-use GUI similar to SPSS, while R/RStudio requires coding but has much more flexibility.

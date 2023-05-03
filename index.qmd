@@ -19,7 +19,7 @@ some less prescriptive suggestions and points regarding issues I would encourage
 Most of this document was written and compiled by former
 lab graduate student [Dr. Kaitlyn
 Fallow](https://www.uvic.ca/socialsciences/psychology/people/graduate/recent-graduates/fallowkaitlyn.php)
-and [Dr. D. Stephen
+under the supervision of [Dr. D. Stephen
 Lindsay](https://www.uvic.ca/socialsciences/psychology/people/faculty-directory/lindsaysteve.php),
 the lab PI. This current "live" manual was adapted and revised by
 current graduate student [Eric Mah](https://ericymah.netlify.app/), with
@@ -33,7 +33,7 @@ We have consulted and been inspired by so many formal and informal sources in
 the course of developing this document that I am sure to miss crediting
 some who deserve credit, but would be remiss not to note lab manuals
 created by [Maryam Ali](https://github.com/alylab/labmanual), [John Paul
-Minda](https://osf.io/8b6kj/), and [Maureen Ritchey](https://github.com/memobc/memolab-manual), from which we gained
+Minda](https://osf.io/8b6kj/), [Candice Morey](https://ccmorey.github.io/labHandbook/), and [Maureen Ritchey](https://github.com/memobc/memolab-manual), from which we gained
 specific inspiration.
 
 Finally, we acknowledge with respect and appreciation the Lkwungen-speaking peoples on whose traditional territory the University of Victoria stands and the Songhees, Esquimalt, and WSÁNEĆ peoples whose historical relationships with the land continue to this day.  We strive to make our lab a safe and welcoming place for students of diverse backgrounds, genders, and abilities.
