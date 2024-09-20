@@ -7,7 +7,7 @@
 The general communication/supervision structure of our lab for day-to-day activities is:
 
 ![](img/Lab%20communication%20structure.png)
-...with Dr. Lindsay typically communicating directly/frequently with graduate students and supervised Honours students, and graduate students communicating/supervising undergraduate RAs working on specific projects. Of course, Dr. Lindsay is more than willing to arrange individual meetings with undergraduate students should the need arise.
+...with Dr. Lindsay typically communicating directly/frequently with graduate students and supervised Honours students, and graduate students communicating/supervising undergraduate RAs working on specific projects. We've in the past had a formal 'lab manager' position, but more typically have individual graduate students serving as 'managers' on the various project(s) they are involved in. Of course, Dr. Lindsay is more than willing to arrange individual meetings with undergraduate students should the need arise.
 
 ## Microsoft Teams
 

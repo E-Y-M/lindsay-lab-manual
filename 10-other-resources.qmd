@@ -12,6 +12,11 @@ useful, both previously listed in this manual and from elsewhere. Note
 that as this list is added to/updated, some links may no longer work or
 refer to the correct page.
 
+-   [UVic's license for Microsoft 365 Suite (Office, Teams )](https://www.uvic.ca/systems/support/computerssoftware/microsoft365/index.php)
+
+-   [Research Methods in Psychology -- 2nd Canadian Edition (Open
+    textbook)](https://opentextbc.ca/researchmethods/)
+
 -   [Research Methods in Psychology -- 2nd Canadian Edition (Open
     textbook)](https://opentextbc.ca/researchmethods/)
 
