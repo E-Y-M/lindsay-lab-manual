@@ -85,9 +85,9 @@ a.     **Which statistical test(s) you plan to conduct with which variable(s
 
 For examples of lab preregistrations, see the following OSF projects:
 
-·       [Variability in Free and Cued Recall](https://osf.io/3tra5/?view_only=65b1552b17144c1ca6c401d5d325ec18)
+·       [Variability in Free and Cued Recall](https://osf.io/3tra5/)
 
-·       [Animacy and Memory](https://osf.io/hc2af/?view_only=c150a4b6c5c6424fa55584331e2f12cc)
+·       [Animacy and Memory](https://osf.io/hc2af/)
 
 #### How do I create a pre-registration?
 
