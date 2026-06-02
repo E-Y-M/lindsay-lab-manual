@@ -17,9 +17,6 @@ refer to the correct page.
 -   [Research Methods in Psychology -- 2nd Canadian Edition (Open
     textbook)](https://opentextbc.ca/researchmethods/)
 
--   [Research Methods in Psychology -- 2nd Canadian Edition (Open
-    textbook)](https://opentextbc.ca/researchmethods/)
-
 -   [R Programming 101
     (YouTube)](https://www.youtube.com/@RProgramming101)
 
@@ -85,10 +82,10 @@ refer to the correct page.
     writing](http://www.raulpacheco.org/category/writing/)
 
 -   [Dan Simons' tips on academic writing and
-    revising](http://www.dansimons.com/resources/writing_tips.html)
+    revising](https://www.dansimons.com/research.html)
 
 -   [Henry L. Roediger III's Twelve Tips for
     Reviewers](https://www.psychologicalscience.org/observer/twelve-tips-for-reviewers)
 
 -   [AP-LS grant writing
-    resources](https://www.apadivisions.org/division-41/awards/grant-writing)
+    resources](http://www.apls-students.org/funding-resources.html)

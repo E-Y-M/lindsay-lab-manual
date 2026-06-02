@@ -6,9 +6,9 @@
 
 ## Lab Rooms
 
-The lab’s graduate student office is located in Cornett A193 and has desk room and desktop PCs with 2 monitors for three students. Currently only two of these are occupied, so the third is available for use by honours students and research assistants on a drop-in basis as long as the room is open. Please do not install software on lab computers without express permission from Prof. Lindsay or the Lab Manager.
+The lab’s graduate student office is located in Cornett A193 and has desk room and desktop PCs with 2 monitors for two students. These are generally available for use by honours students and research assistants on a drop-in basis as long as the room is open. Please do not install software on lab computers without express permission from Prof. Lindsay or the Lab Manager.
 
-We have two individual participant testing rooms, each with a desktop PC and a single monitor, located in Cornett A178 and A179. Both are equipped to run experiments using E-Prime software. These rooms are also available for student use when they are not occupied for the purpose of participant testing. Reserving these rooms for either purpose is done through a shared Google Calendar, which you will be given access to as needed or upon request. 
+We have two individual participant testing rooms located in Cornett A178 and A179. Both are currently equipped with lab laptops and VR equipment. Although these rooms are primarily used for running VR experiments, they are also available for student use when they are not occupied for the purpose of participant testing. Reserving these rooms for either purpose can be done by checking in with other lab members on Teams.
 
 The CaBS department meeting room, Cornett A069, is most often used for lab meetings but is available for other purposes (e.g., holding tutorials or training sessions, practicing presentations, etc.). Reservations are made through a shared Google Calendar that I have ongoing access to, and CaBS graduate students can request personal access from the administrator (currently also [me](mailto:slindsay@uvic.ca)). 
 
@@ -18,14 +18,14 @@ In recent years we have shifted toward testing undergraduate participants in gro
 
 Booking requests and changes associated with the same project should all be made by the same person (e.g., a graduate student will typically coordinate their own bookings along with those of any research assistants working on their projects), and it is important these reservations be cancelled with as much notice as possible if you do not plan to use the room. Once rooms are booked, timeslots on SONA will need to be set up. Although this will typically be handled by the supervising graduate student or lab manager, you may be involved in setting up studies and timeslots on SONA. [This guide](https://www.uvic.ca/socialsciences/psychology/research/participants/index.php) includes comprehensive information on how to do so.
 
-For online experiments, we typically collect data via Prolific.co, a crowdsourcing platform where online workers complete experiments and other tasks for compensation. Dr. Lindsay has funds to support such online data collection. See [this page](https://researcher-help.prolific.co/hc/en-gb/articles/360009220953-Setting-up-a-study-on-Prolific-step-by-step-guide-) for information on how to create a study on Prolific.
+For online experiments, we typically collect data via Prolific.co, a crowdsourcing platform where online workers complete experiments and other tasks for compensation. Dr. Lindsay has funds to support such online data collection. See [this page](https://researcher-help.prolific.com/en/collections/1029284-getting-started) for information on how to create a study on Prolific.
 
 
 ## Lab Software
 
 We currently have two active licences for the experiment development and administration software E-Prime (one for version 2 and one for version 3). These licenses are in the form of USB keys that can be used on any lab computers with E-Prime installed and are usually stored in the graduate student office. University Systems has a number of E-Prime licenses that allow for experiment administration only and can install the program in a single computer lab (20-25 people), usually one of HSD A150, A160, or A170, upon request.
 
-For running online experiments, the lab also has access to a Qualtrics Survey Software license. See [this site](http://sites.cognitivescience.co/qualtrics/building-a-psychology-experiment) for useful tutorials on designing Qualtrics surveys and experiments for psychological research.
+For running online experiments, the lab occasionally has access to a Qualtrics Survey Software license. See [this site](https://www.qualtrics.com/support/survey-platform/getting-started/survey-platform-overview/) and [this video](https://www.youtube.com/watch?v=Tp5mvAWYtBE) for useful tutorials on designing Qualtrics surveys and experiments for psychological research.
 
 In recent years, we have also begun using freely available [PsychoPy](https://www.psychopy.org/) to design experiments in Python (which can then be administered online via [Pavlovia](https://pavlovia.org/) for a small per-participant cost). See [this site](https://psychopy.org/gettingStarted.html) for helpful information and tutorials.
 
